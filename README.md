@@ -1,2 +1,2 @@
-# breast_cancer
-App on breast_cancer_prediction
+# Breast-Cancer-Detection-App
+ Breast Cancer Detection App Using Machine Learning KNeighborsClassifier
